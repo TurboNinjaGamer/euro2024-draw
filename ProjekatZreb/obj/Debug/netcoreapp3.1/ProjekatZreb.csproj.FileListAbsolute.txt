@@ -1,0 +1,14 @@
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\bin\Debug\netcoreapp3.1\ProjekatZreb.exe
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\bin\Debug\netcoreapp3.1\ProjekatZreb.deps.json
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\bin\Debug\netcoreapp3.1\ProjekatZreb.runtimeconfig.json
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\bin\Debug\netcoreapp3.1\ProjekatZreb.runtimeconfig.dev.json
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\bin\Debug\netcoreapp3.1\ProjekatZreb.dll
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\bin\Debug\netcoreapp3.1\ProjekatZreb.pdb
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.csproj.AssemblyReference.cache
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.AssemblyInfoInputs.cache
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.AssemblyInfo.cs
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.csproj.CoreCompileInputs.cache
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.dll
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.pdb
+C:\Users\djgajic\source\repos\ProjekatZreb\ProjekatZreb\obj\Debug\netcoreapp3.1\ProjekatZreb.genruntimeconfig.cache
